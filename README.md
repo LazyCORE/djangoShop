@@ -1,8 +1,6 @@
 # djangoShop
-# RedRocketShop
-Django Blog for practice
 
-Setup
+#Setup
 The first thing to do is to clone the repository:
 
 $ git clone https://github.com/LazyCORE/djangoShop
